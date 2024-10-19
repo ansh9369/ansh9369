@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **JavaScript and Node JS, I will try to give answe**
+- 💬 Ask me about **JavaScript and Node JS, I will try to give answer**
 
 - 📫 How to reach me **mransh901@gmail.com**
 
